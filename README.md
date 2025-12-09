@@ -2,7 +2,7 @@
 
 YouTube Ref: https://www.youtube.com/watch?v=68K4A1zP8TM
 
-This project is a proof-of-concept web application that demonstrates a voice-driven, conversational e-commerce experience. Users can interact with the application entirely through natural speech to find products, add them to a shopping cart, and check out.
+This project is a proof-of-concept web application that demonstrates a voice-driven, conversational e-commerce experience. Users can interact with the application entirely through natural speech to find products, add them to a shopping cart, and check out (therefore it functions as a Voice AI Agent).
 
 The application is built with React and TypeScript and uses the AWS SDK for JavaScript to communicate with Amazon Bedrock and the Nova Sonic system for a real-time, speech-to-speech interaction.
 
